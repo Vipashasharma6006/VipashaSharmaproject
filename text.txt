@@ -1,0 +1,115 @@
+
+    <div class="alls">
+        <div class="mainc2">
+            <figure>
+                <img src="img/news2.jpg" alt="news" id="news">
+                <figcaption>
+                    <h3>Apple addresses overheating issue in iPhone 15 Pro models, rolls out iOS 17 update to fix
+                        software glitch</h3>
+                    <p>By <span style="color: red;">Arun Sharma</span></p>
+                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales
+                        placerat. Sed varius leo ac leo fermentum, eu cursus nunc maximus. Integer convallis nisi nibh,
+                        et ornare neque ullamcorper ac. Nam id congue lectus, a venenatis massa. Maecenas justo libero,
+                        vulputate vel nunc id, blandit feugiat sem.</p>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="mainc2">
+            <figure>
+                <img src="img/news.jpg" alt="news" id="news2">
+                <figcaption>
+                    <h3>Apple addresses overheating issue in iPhone 15 Pro models, rolls out iOS 17 update to fix
+                        software glitch</h3>
+                    <p>By <span style="color: red;">Arun Sharma</span></p>
+                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales
+                        placerat. Sed varius leo ac leo fermentum, eu cursus nunc maximus. Integer convallis nisi nibh,
+                        et ornare neque ullamcorper ac. Nam id congue lectus, a venenatis massa. Maecenas justo libero,
+                        vulputate vel nunc id, blandit feugiat sem.</p>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="smallnews">
+
+            <div class="news-item">
+                <img src="img/new3.jpg" alt="News Image 1" class="small">
+                <p>Apple addresses overheating issue in iPhone 15 Pro models, rolls out iOS 17 update to fix software
+                    glitch</p>
+            </div>
+
+            <div class="news-item">
+                <img src="img/news4.jpg" alt="News Image 2" class="small">
+                <p>Apple addresses overheating issue in iPhone 15 Pro models, rolls out iOS 17 update to fix software
+                    glitch</p>
+            </div>
+
+            <div class="news-item">
+                <img src="img/news5.jpg" alt="News Image 3" class="small">
+                <p>Apple addresses overheating issue in iPhone 15 Pro models, rolls out iOS 17 update to fix software
+                    glitch</p>
+            </div>
+            <div class="news-item">
+                <img src="img/news6.jpg" alt="News Image 3" class="small">
+                <p>Apple addresses overheating issue in iPhone 15 Pro models, rolls out iOS 17 update to fix software
+                    glitch</p>
+            </div>
+        </div>
+    </div>
+   
+
+    <div class="alls">
+        <div class="mainc2">
+            <figure>
+                <img src="img/news2.jpg" alt="news" id="news">
+                <figcaption>
+                    <h3>Apple addresses overheating issue in iPhone 15 Pro models, rolls out iOS 17 update to fix
+                        software glitch</h3>
+                    <p>By <span style="color: red;">Arun Sharma</span></p>
+                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales
+                        placerat. Sed varius leo ac leo fermentum, eu cursus nunc maximus. Integer convallis nisi nibh,
+                        et ornare neque ullamcorper ac. Nam id congue lectus, a venenatis massa. Maecenas justo libero,
+                        vulputate vel nunc id, blandit feugiat sem.</p>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="mainc2">
+            <figure>
+                <img src="img/newsss.jpg" alt="news" id="news2">
+                <figcaption>
+                    <h3>Apple addresses overheating issue in iPhone 15 Pro models, rolls out iOS 17 update to fix
+                        software glitch</h3>
+                    <p>By <span style="color: red;">Arun Sharma</span></p>
+                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu metus sit amet odio sodales
+                        placerat. Sed varius leo ac leo fermentum, eu cursus nunc maximus. Integer convallis nisi nibh,
+                        et ornare neque ullamcorper ac. Nam id congue lectus, a venenatis massa. Maecenas justo libero,
+                        vulputate vel nunc id, blandit feugiat sem.</p>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="smallnews">
+
+            <div class="news-item">
+                <img src="img/newss.jpg" alt="News Image 1" class="small">
+                <p>Apple addresses overheating issue in iPhone 15 Pro models, rolls out iOS 17 update to fix software
+                    glitch</p>
+            </div>
+
+            <div class="news-item">
+                <img src="img/newsss.jpg" alt="News Image 2" class="small">
+                <p>Apple addresses overheating issue in iPhone 15 Pro models, rolls out iOS 17 update to fix software
+                    glitch</p>
+            </div>
+
+            <div class="news-item">
+                <img src="img/newssss.jpg" alt="News Image 3" class="small">
+                <p>Apple addresses overheating issue in iPhone 15 Pro models, rolls out iOS 17 update to fix software
+                    glitch</p>
+            </div>
+            <div class="news-item">
+                <img src="img/news6.jpg" alt="News Image 3" class="small">
+                <p>Apple addresses overheating issue in iPhone 15 Pro models, rolls out iOS 17 update to fix software
+                    glitch</p>
+            </div>
+        </div>
+    </div>
+    <h1 style="display: flex; justify-content: center; color: red;">Advertisment Section</h1>
+    

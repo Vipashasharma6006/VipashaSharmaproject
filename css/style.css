@@ -1,0 +1,387 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    animation: fadeIn 1s ease-in-out;
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #ee002d;
+    color: white;
+    animation: fadeIn 1s ease-in-out;
+}
+
+.link {
+    display: flex;
+}
+
+.links {
+    margin-left: 20px;
+    list-style: none;
+    margin-top: 20px;
+    animation: fadeIn 1s ease-in-out;
+}
+
+#search {
+    background-color: transparent;
+    margin-right: 50px;
+    height: 30px;
+    border-radius: 2px;
+    color: #fff;
+    margin-top: 15px;
+    padding-left: 10px;
+    margin-left: 20px;
+    border: 1px solid #fff;
+}
+
+.links2 {
+    list-style: none;
+    position: relative;
+    position: sticky;
+    cursor: pointer;
+    top: 1px;
+    margin-right: 20px;
+    top: 10px;
+}
+ #link1q1:hover{
+    color: black;
+    transform: scale(1.1);
+}
+#link1q2:hover{
+    color: black;
+    transform: scale(1.1);
+}
+#link1q3:hover{
+    transform: scale(1.1);
+    color: black;
+    
+}
+#link1q4:hover{
+    transform: scale(1.1);
+    color: black;
+}
+#link1q5:hover{
+    transform: scale(1.1);
+    color: black;
+}
+#link1q6:hover{
+    transform: scale(1.1);
+    color: black;
+}
+#link1q7:hover{
+    transform: scale(1.1);
+    color: black;
+}
+#link1q8:hover{
+    transform: scale(1.1);
+    color: black;
+}
+#link1q9:hover{
+    transform: scale(1.1);
+    color: black;
+}
+#link1q10:hover{
+    transform: scale(1.1);
+    color: black;
+    transform: scale(1.1);
+}
+#link1q11:hover{
+    
+    color: black;
+}
+.link2 {
+    display: flex;
+    justify-content: center;
+    color: #828282;
+    border-bottom: 1px solid #828282;
+    position: relative;
+    z-index: 100;
+    height: 50px;
+}
+
+.title1 {
+    min-width: 150px;
+    height: 38px;
+    width: auto;
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 20px;
+}
+
+.p {
+    position: relative;
+    top: 10px;
+}
+
+.title12 {
+    min-width: 150px;
+    height: 38px;
+    width: auto;
+    background-color: #152535;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    padding: 0 20px;
+}
+
+.p2 {
+    position: relative;
+    bottom: -10px;
+}
+
+.title {
+    display: flex;
+}
+
+.title2 {
+    display: flex;
+}
+
+.all {
+    padding: 50px 0 80px;
+    display: flex;
+}
+
+.break2 {
+    margin-top: 10px;
+}
+
+.all2 {
+    width: 36%;
+    display: flex;
+    flex-direction: column;
+}
+
+.smallimg {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+.title2 {
+    min-width: 150px;
+    height: 38px;
+    width: auto;
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 20px;
+}
+
+footer {
+    background-color: #152535;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.footer-section {
+    animation: fadeIn 1s ease-in-out;
+    flex: 1;
+    padding: 0 20px;
+}
+
+.footer-section h3 {
+    font-size: 1.2rem;
+    animation: fadeIn 1s ease-in-out;
+    margin-bottom: 15px;
+}
+
+.footer-section ul {
+    list-style: none;
+    animation: fadeIn 1s ease-in-out;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 10px;
+}
+
+.footer-section a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.social-icons {
+    margin-top: 20px;
+    animation: fadeIn 1s ease-in-out;
+}
+
+.social-icons a {
+    font-size: 1.5rem;
+    margin-right: 20px;
+    animation: fadeIn 1s ease-in-out;
+    color: #fff;
+    text-decoration: none;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#hd {
+    color: red;
+    animation: colors 0.5s infinite ease-in-out;
+
+}
+
+@keyframes colors {
+    from {
+        color: #ee002d;
+    }
+
+    to {
+        color: white;
+    }
+}
+
+.smallnews {
+    height: auto;
+    width: 100%;
+
+}
+
+.small {
+    height: 100px;
+    width: auto;
+}
+
+.news-item {
+    display: flex;
+    margin-top: 20px;
+}
+
+.mainc {
+    display: inline-block;
+    width: 30%;
+    cursor: pointer;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+.mainc2 {
+    display: block;
+    cursor: pointer;
+    width: 30%;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+#news {
+    width: 100%;
+}
+
+#news2 {
+    width: 80%;
+    height: 100%;
+}
+
+.alls {
+    display: flex;
+    justify-content: center;
+}
+
+.smallnews {
+    width: 30%;
+    display: flex;
+    border-right:1px solid grey ;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.5);
+    flex-direction: column;
+}
+
+
+footer {
+    background-color: #152535;
+    color: #fff;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-section {
+    flex: 1;
+    padding: 10px;
+}
+
+.footer-section h1,
+.footer-section h3 {
+    color: #fff;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin: 5px 0;
+}
+
+.social-icons a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 10px;
+}
+
+.add {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.videos {
+
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-top: 20px;
+    background-image: url(img/backs.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(2, 3, 28, 0.9);
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+}
+.videos{
+    margin-top: 40px;
+   
+        border: 2px solid red;
+    
+}
+.alls{
+    margin-top: 40px;
+   
+    
+}
